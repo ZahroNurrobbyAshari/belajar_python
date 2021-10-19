@@ -5,7 +5,7 @@ nama = []
 umur = []
 
 for i in range(0,banyak):
-    print("data ke "+str(i))
+    print("data ke ",i)
     input_nama = str(input("nama : "))
     input_umur = int(input("umur : "))
     
